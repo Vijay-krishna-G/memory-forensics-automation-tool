@@ -1,11 +1,10 @@
-
 venv/
 venv_repair/
 .venv/
 __pycache__/
 *.py[cod]
-users.csv
 .env
+users.csv
 dumps/
 *.raw
 *.dmp
@@ -18,5 +17,4 @@ plugin_outputs/*
 .vscode/
 .DS_Store
 Thumbs.db
-# Local PDF conversion executable
 bin/
